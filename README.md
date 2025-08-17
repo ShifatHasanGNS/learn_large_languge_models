@@ -80,3 +80,15 @@ From there, you can run the cells sequentially to see the model being built, tra
 
 - The Transformer architecture was introduced in the paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762) by Vaswani et al.
 - The code and structure are heavily inspired by the work of [Sebastian Raschka](https://github.com/rasbt) in his "LLMs-from-scratch" project.
+
+---
+
+_**Contact**_
+
+[Facebook](https://www.facebook.com/ShifatHasanGNS/)
+&emsp;
+[Instagram](https://www.instagram.com/ShifatHasanGNS/)
+&emsp;
+[Linkedin](https://www.linkedin.com/in/md-shifat-hasan-8179402b4/)
+&emsp;
+[X](https://x.com/ShifatHasanGNS)
